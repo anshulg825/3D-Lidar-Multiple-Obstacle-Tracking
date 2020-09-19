@@ -43,7 +43,7 @@ rosbag play kitti_2011_09_26_drive_0005_synced.bag
 ```
 rviz
 ```
-![arch](./pic/setting.png)
+![arch](./setting.png)
 
 ##### Terminal 4
 ```
@@ -52,7 +52,7 @@ rosrun object_tracking main input:=/kitti/velo/pointcloud
 
 ### Result
 
-![arch](./pic/result2.png)
+![arch](./result2.png)
 
 ######  Youtube [Clip](https://www.youtube.com/watch?v=zzFpTVk2Uj0)
 
