@@ -32,6 +32,7 @@ wget http://kitti.is.tue.mpg.de/kitti/raw_data/2011_09_26_calib.zip
 ##### Terminal 1
 ```
 roscore
+
 ```
 
 ##### Terminal 2
