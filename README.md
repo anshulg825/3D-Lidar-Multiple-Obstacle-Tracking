@@ -1,6 +1,6 @@
 # ROS Package for Object Detecton/Tracking
 
-## Please notice this repository is still in progress.
+## Please notice that I have stopped working on this repository now. 
 
 ### Intro
 This package includes Ground Removal, Object Clustering, Bounding Box, IMM-UKF-JPDAF, Track Management and Object Classification for 3D-LIDAR multi object tracking.
